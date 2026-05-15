@@ -6,6 +6,30 @@
       <excludeFolder url="file://$MODULE_DIR$/Lab1/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/Lab1/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Lab1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab8/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab8/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab8/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_2_realapilogin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_2_realapilogin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_2_realapilogin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_3_autologin_logout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_3_autologin_logout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_3_autologin_logout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_4_firebasegooglesignin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_4_firebasegooglesignin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_4_firebasegooglesignin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_5_notification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_5_notification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10/lab10_5_notification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab8b/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab8b/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab8b/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab9/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab9/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab9/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
