@@ -10,15 +10,6 @@ class SplashScreen extends StatefulWidget {
   State<SplashScreen> createState() => _SplashScreenState();
 }
 
-class _HomeScreen extends StatelessWidget {
-  const _HomeScreen();
-
-  @override
-  Widget build(BuildContext context) {
-    return const Scaffold(body: Center(child: Text("Home")));
-  }
-}
-
 class _SplashScreenState extends State<SplashScreen> {
   final SessionService _sessionService = SessionService();
 

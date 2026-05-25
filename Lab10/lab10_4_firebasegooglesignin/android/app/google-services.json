@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150968069250",
+    "project_id": "scholix-cbaff",
+    "storage_bucket": "scholix-cbaff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150968069250:android:0d41a80ea527da9564189b",
+        "android_client_info": {
+          "package_name": "com.scholix123.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150968069250-m216klk3gsa43goh1orpndho5sfa02fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scholix123.app",
+            "certificate_hash": "b8519d88ed435bf6c5b47415bb6c54341fc2c6b7"
+          }
+        },
+        {
+          "client_id": "150968069250-nnsu3865enp5ggharmr52uich9o5a450.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSPXy48J9lpLxT72_oq7algpZY4353B0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150968069250-nnsu3865enp5ggharmr52uich9o5a450.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

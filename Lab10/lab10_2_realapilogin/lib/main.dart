@@ -128,7 +128,7 @@ class HomeScreen extends StatelessWidget {
             const SizedBox(height: 16),
             Text("Welcome, ${user['firstName']} ${user['lastName']}!", style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
             const SizedBox(height: 8),
-            Text("Token: ${user['token'].substring(0, 20)}..."),
+            Text("Token: ${user['accessToken'].substring(0, 20)}..."),
           ],
         ),
       ),
